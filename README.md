@@ -1,5 +1,4 @@
 - 👋 Olá, eu sou o Henrique.
-- 🌱 Atualmente estou aprendendo sobre HTML, CSS e JavaScript.
 
 <!---
 HenriEmanu/HenriEmanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
